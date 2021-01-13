@@ -61,6 +61,10 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
+  background-image: url(../img/084AME0226_TP_V.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center center;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
